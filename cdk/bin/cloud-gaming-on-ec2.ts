@@ -51,7 +51,7 @@ new G5Stack(app, 'CloudGamingOnG5', {
   ec2KeyName: EC2_KEYPAIR_NAME,
   volumeSizeGiB: VOLUME_SIZE_GIB,
   openPorts: OPEN_PORTS,
-  associateElasticIp: true,
+  associateElasticIp: false,
   allowInboundCidr: ALLOW_INBOUND_CIDR,
   env: {
     account: ACCOUNT_ID,
