@@ -18,3 +18,5 @@ cdk.out
 cloud-gaming-on-ec2-instances.iml
 keys
 *.pem
+
+*.rdp
