@@ -14,7 +14,7 @@ const CHROME_URL = 'https://dl.google.com/tag/s/appname=Google%20Chrome&needsadm
 const SEVEN_ZIP_URL = 'https://www.7-zip.org/a/7z2201-x64.msi';
 
 const EC2_KEYPAIR_NAME = 'steam_machine';
-const VOLUME_SIZE_GIB = 200;
+const VOLUME_SIZE_GIB = 100;
 const OPEN_PORTS = [8443];
 const ALLOW_INBOUND_CIDR = '0.0.0.0/0';
 const ACCOUNT_ID = '708824551879';
